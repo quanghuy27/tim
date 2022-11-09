@@ -4,7 +4,8 @@ body{
 .title {
 	color: #5C6AC4;
 }
- h2{
+ t{
      text-align: center;
      position: absolute;
+     aspect-ratio: auto 1365 / 890;
 }
