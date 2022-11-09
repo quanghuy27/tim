@@ -4,10 +4,9 @@ body{
 .title {
 	color: #5C6AC4;
 }
- p{
-     position: absolute;
-     color: #ea80b0;
-     left: 672px;
-     top: 390px;
-
+ .1{
+  position: absolute;
+  color: #ea80b0;
+  left: 672px;
+  top: 390px;
 }
