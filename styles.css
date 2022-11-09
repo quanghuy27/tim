@@ -5,8 +5,9 @@ body{
 	color: #5C6AC4;
 }
  p{
-     text-align: center;
      position: absolute;
-     aspect-ratio: auto 1365 / 890;
-     color: white
+     color: #ea80b0;
+     left: 672px;
+     top: 390px;
+
 }
